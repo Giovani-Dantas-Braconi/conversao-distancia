@@ -116,4 +116,7 @@ docker rm -f giovanidbraconi/conversor-medidas
 ```
 
 #
-## Esse projetinho é um exemplo de como rodar docker, entender sobre imagens, sobre os containers, como eles funcionam  
+## Esse projetinho é um exemplo de como rodar docker, entender sobre imagens, sobre os containers, como eles funcionam
+
+## 🙋‍♂️ Autor
+**Giovani Dantas Braconi**  
